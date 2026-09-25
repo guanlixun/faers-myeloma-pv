@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite the associated article as indicated below."
+title: "FAERS disproportionality analysis: bispecific antibodies versus CAR T-cell therapy in multiple myeloma"
+abstract: >-
+  Analysis pipeline for a pharmacovigilance disproportionality study comparing the
+  safety signalling profiles of bispecific antibodies (teclistamab, elranatamab,
+  talquetamab) and BCMA-directed CAR T-cell products (idecabtagene vicleucel,
+  ciltacabtagene autoleucel) using the FDA Adverse Event Reporting System (FAERS),
+  2021 Q1 to 2026 Q2.
+version: "1.0.0"
+date-released: "2026-09-25"
+license: MIT
+type: software
+authors:
+  - family-names: Zhou
+    given-names: Xuan
+    affiliation: "Department of Emergency Medicine, Hainan Hospital of Chinese PLA General Hospital, Sanya, Hainan, China"
+  - family-names: Tan
+    given-names: Min
+    affiliation: "Department of Hematology, Hainan Hospital of Chinese PLA General Hospital, Sanya, Hainan, China"
+  - family-names: Zhang
+    given-names: Xiaojuan
+    affiliation: "Department of Hematology, Hainan Hospital of Chinese PLA General Hospital, Sanya, Hainan, China"
+  - family-names: Lv
+    given-names: Faqin
+    affiliation: "Department of Ultrasound, the Third Medical Center of PLA General Hospital, Beijing 100039, China"
+  - family-names: Guan
+    given-names: Lixun
+    affiliation: "Department of Hematology, Hainan Hospital of Chinese PLA General Hospital, Sanya, Hainan, China"
+contact:
+  - family-names: Guan
+    given-names: Lixun
+    email: guanlixunhn@126.com
+references:
+  - type: article
+    title: "Comparative Safety of Bispecific Antibodies versus CAR T-Cell Therapy in Multiple Myeloma: A Disproportionality Analysis of the US FDA Adverse Event Reporting System (FAERS)"
+    status: submitted
+    authors:
+      - family-names: Zhou
+        given-names: Xuan
+      - family-names: Tan
+        given-names: Min
+      - family-names: Zhang
+        given-names: Xiaojuan
+      - family-names: Lv
+        given-names: Faqin
+      - family-names: Guan
+        given-names: Lixun
+keywords:
+  - pharmacovigilance
+  - FAERS
+  - disproportionality analysis
+  - multiple myeloma
+  - bispecific antibody
+  - CAR T-cell therapy
